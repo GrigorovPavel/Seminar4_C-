@@ -6,7 +6,6 @@
 // 8->36
 
 
-using System.Globalization;
 
 int SumNumbers(int num)
 {
